@@ -32,7 +32,7 @@ interface FilterOptions {
 
 // Config store for favorites
 const config = new Conf<ConfigSchema>({
-  projectName: "cloudwatch-log-tailer",
+  projectName: "cwtch",
   schema: {
     favorites: {
       type: "object",

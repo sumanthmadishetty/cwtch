@@ -1,4 +1,4 @@
-# CloudWatch Log Tailer (cwl)
+# CloudWatch Log Tailer (cwtch)
 
 A simple CLI tool to easily search, tail, and manage CloudWatch log groups. Built with TypeScript.
 
