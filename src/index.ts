@@ -53,7 +53,7 @@ program
   .description(
     "CloudWatch Log Tailer - A CLI tool to easily tail CloudWatch logs"
   )
-  .version("0.0.1");
+  .version("0.0.2");
 
 program
   .command("search")
